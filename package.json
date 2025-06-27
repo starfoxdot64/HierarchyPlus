@@ -3,13 +3,13 @@
   "displayName": "Rainy - HierarchyPlus",
   "version": "1.3.0",
   "description": "A general improvement to the unity hierarchy such as component icons, guide lines, row coloring and settings for customization.",
-  "gitDependencies": {},
-  "vpmDependencies": {},
   "author": {
     "name": "Rainy",
     "email": "hello@rainy.fans",
     "url": "https://github.com/rainy-aa"
   },
+  "gitDependencies": {},
+  "vpmDependencies": {},
   "legacyFolders": {},
   "legacyFiles": {},
   "type": "tool",
