@@ -1,9 +1,27 @@
+Plugin by @Dreadrith
+Streisand Effect by Barbra Streisand, 2003
+
+
+### [Download Instructions]
+These are a little different than before, I'm not going to put together a VPM add page or anything like that - this is gonna be static.
+
+- Open the Unity Package Manager
+- Go to `Window > Package Manager > Plus Icon (top-left corner) > Add package from git URL
+- Paste in this repo's Git URL: https://github.com/starfoxdot64/HierarchyPlus.git
+- Let Unity cook for a minute
+
+If you wanna do it a little more manually, download the release on the right and extract it to a folder, and pick "Add package from disk" instead. You'll need to pick the package.json included in the zip file, it's the last one Dreadrith released before nuking his repo list.
+
+
+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+
 # HierarchyPlus
 A general improvement to the Unity hierarchy window such as component icons, guide lines, row coloring and settings for customization.
 
-Originally by @Dreadrith
 
-### [Download From Here](https://vpm.dreadscripts.com/)
 ![](https://i.imgur.com/w1uNB7O.gif)
 ## Features
 - Enhanced hierarchy view: Component icons, guide lines, row coloring, and other.
@@ -13,7 +31,6 @@ Originally by @Dreadrith
 - Easy custom icon support for any component.
 - Settings window for customization and coloring.
 
-![image](https://github.com/Dreadrith/HierarchyPlus/assets/73959477/d8243aba-8022-4008-8561-c9ea87b552ab)
 
 ## Custom Icons
 You can change or add your own icons for components. Here's how to do it:  
@@ -28,7 +45,3 @@ You can change or add your own icons for components. Here's how to do it:
 -|-
 
 4- You may have to refresh the Icons to see the effect immediately. Find HierarchyPlus settings window under `Tools > HierarchyPlus`, and click `Refresh Icons`
-
-### Thank you
-
- 💞 to Dreadrith for their work in originally creating this script, and including a permissive license
