@@ -1,8 +1,10 @@
-Plugin by @Dreadrith
+Plugin by @Dreadrith 
+
 Streisand Effect by Barbra Streisand, 2003
 
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
 
-### [Download Instructions]
+# [Install Instructions]
 These are a little different than before, I'm not going to put together a VPM add page or anything like that - this is gonna be static.
 
 - Open the Unity Package Manager
@@ -14,7 +16,6 @@ If you wanna do it a little more manually, download the release on the right and
 
 
 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
 
 
