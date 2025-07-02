@@ -1,0 +1,18 @@
+{
+  "name": "com.hierarchyplus",
+  "displayName": "HierarchyPlus",
+  "version": "1.3.0",
+  "description": "A general improvement to the unity hierarchy such as component icons, guide lines, row coloring and settings for customization.",
+  "author": {
+    "name": "Jay",
+    "email": "hello@uwu.owo",
+    "url": "https://github.com/starfoxdot64"
+  },
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "type": "tool",
+  "unity": "2019.4",
+  "url": "https://github.com/starfoxdot64/HierarchyPlus/releases/download/v1.3.0/HierarchyPlus-v1.3.0-VPM.zip"
+}
